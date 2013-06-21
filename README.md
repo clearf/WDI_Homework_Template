@@ -14,7 +14,9 @@ The repository owner should then [add the other group members as
 github collaborators](https://help.github.com/articles/how-do-i-add-a-collaborator). 
 
 Each person in the group should clone the repo to their local machine
-```git clone https://github.com/<USERNAME>/<Name Of Homework Assignment>
+
+```
+git clone https://github.com/<USERNAME>/<Name Of Homework Assignment>
 # Clones your fork of the repository into the current directory in terminal
 ```
 
